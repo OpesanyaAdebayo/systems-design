@@ -5,7 +5,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 
 - [Books](#books)
 - [Blog Posts](#blog-posts)
-- [Company Engineering Blogs](#engineering-blogs)
+- [Company Engineering Blogs](#company-engineering-blogs)
 - [Courses And Tutorials](#courses-and-tutorials)
 - [Interview Questions](#interview-questions)
 
