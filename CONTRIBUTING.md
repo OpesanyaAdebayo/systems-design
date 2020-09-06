@@ -1,9 +1,9 @@
-# Contribution Guide for this Systems Design Repository
-Thank you for your interest in contributing to Systems Design Repository, contributions are welcome and will be fully credited. This guide helps make contributing to Systems Design Repository simple and efficient for everyone.
+# Contribution Guide for this System Design Repository
+Thank you for your interest in contributing to System Design Repository, contributions are welcome and will be fully credited. This guide helps make contributing to System Design Repository simple and efficient for everyone.
 
 ## Idea
 
-I created this repository because I thought it'll be a good idea to keep a repository of helpful resources from books to blog posts and interview questions. There isn't really a curriculum for preparing for systems design interviews or leveling up your skills asides working on applications/produxts that challenge you, and this repository was created to help with that.
+I created this repository because I thought it'll be a good idea to keep a repository of helpful resources from books to blog posts and interview questions. There isn't really a curriculum for preparing for systems design interviews or leveling up your skills asides working on applications/products that challenge you, and this repository was created to help with that.
 
 ## Guidelines
 
