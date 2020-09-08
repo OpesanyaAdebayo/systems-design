@@ -70,7 +70,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 ## Interview Questions
 
 **Design a CDN network**
-* [Globally Distributed Content Delivery](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&context=compsci)
+* [Globally Distributed Content Delivery](https://kilthub.cmu.edu/articles/journal_contribution/Globally_distributed_content_delivery/6605972)
 
 **Design a Google document system**
 * [google-mobwrite](https://code.google.com/p/google-mobwrite/)
