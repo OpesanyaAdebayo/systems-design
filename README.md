@@ -58,7 +58,8 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 - [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
 - [Booking.com Development Blog](https://blog.booking.com/)
-- [Scalyr Engineering Blog ](https://blog.scalyr.com/)
+- [Scalyr Engineering Blog](https://blog.scalyr.com/)
+- [Grammarly Engineering Blog](https://www.grammarly.com/blog/engineering/)
 
 ## Courses And Tutorials
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
@@ -70,7 +71,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 ## Interview Questions
 
 **Design a CDN network**
-* [Globally Distributed Content Delivery](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&context=compsci)
+* [Globally Distributed Content Delivery](https://kilthub.cmu.edu/articles/journal_contribution/Globally_distributed_content_delivery/6605972)
 
 **Design a Google document system**
 * [google-mobwrite](https://code.google.com/p/google-mobwrite/)
