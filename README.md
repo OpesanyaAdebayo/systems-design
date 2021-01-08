@@ -19,6 +19,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Scalability for Dummies](https://www.lecloud.net/tagged/scalability)
 - [Scalable Web Architecture and Distributed Systems](https://www.aosabook.org/en/distsys.html)
 - [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
+- [System design interview questions - Concepts you should know](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/systems-design-for-interviews/)
 
 ## Company Engineering Blogs
 
