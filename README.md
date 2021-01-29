@@ -62,6 +62,8 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Scalyr Engineering Blog](https://blog.scalyr.com/)
 - [Grammarly Engineering Blog](https://www.grammarly.com/blog/engineering/)
 - [Intercom Engineering Blog](https://www.intercom.com/blog/engineering)
+- [Slack Engineering Blog](https://slack.engineering/)
+
 
 ## Courses And Tutorials
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
