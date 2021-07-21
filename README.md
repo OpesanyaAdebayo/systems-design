@@ -7,7 +7,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Blog Posts](#blog-posts)
 - [Company Engineering Blogs](#company-engineering-blogs)
 - [Courses And Tutorials](#courses-and-tutorials)
-- [YouTube channels](#youtube-channels)
+- [YouTube Channels](#youtube-channels)
 - [Interview Questions](#interview-questions)
 
 ## Books
