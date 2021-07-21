@@ -7,6 +7,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Blog Posts](#blog-posts)
 - [Company Engineering Blogs](#company-engineering-blogs)
 - [Courses And Tutorials](#courses-and-tutorials)
+- [YouTube channels](#youtube-channels)
 - [Interview Questions](#interview-questions)
 
 ## Books
@@ -70,7 +71,11 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Algoexpert.io](https://www.algoexpert.io)
 - [Hired In Tech](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 - [System Design Tutorial](https://systemdesigntutorial.com/system-design/yelp)
- 
+
+
+## YouTube Channels
+- [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+
 
 ## Interview Questions
 
