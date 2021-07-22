@@ -8,6 +8,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Company Engineering Blogs](#company-engineering-blogs)
 - [Courses And Tutorials](#courses-and-tutorials)
 - [Interview Questions](#interview-questions)
+- [YouTube](#youtube)
 
 ## Books
 
@@ -160,6 +161,17 @@ Reference:
 
 * [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
 
+## YouTube
+
+### Channels
+
+- [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+
+### Videos
+
+- [System Design Mock Interview: Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
+- [Google Systems Design Interview With An Ex-Googler](https://www.youtube.com/watch?v=q0KGYwNbf-0)
+- [Amazon System Design Interview: Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
 
 # Credits
 - Company Engineering Blogs from [checkcheckzz](https://github.com/checkcheckzz/system-design-interview#-company-engineering-blogs)
