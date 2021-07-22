@@ -64,6 +64,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Grammarly Engineering Blog](https://www.grammarly.com/blog/engineering/)
 - [Intercom Engineering Blog](https://www.intercom.com/blog/engineering)
 - [Slack Engineering Blog](https://slack.engineering/)
+- [Stripe Engineering Blog](https://stripe.com/blog/engineering)
 
 
 ## Courses And Tutorials
