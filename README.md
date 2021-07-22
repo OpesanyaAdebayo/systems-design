@@ -71,7 +71,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Algoexpert.io](https://www.algoexpert.io)
 - [Hired In Tech](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 - [System Design Tutorial](https://systemdesigntutorial.com/system-design/yelp)
-
+ 
 
 ## Interview Questions
 
