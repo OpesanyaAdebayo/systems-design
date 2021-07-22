@@ -10,7 +10,6 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Interview Questions](#interview-questions)
 - [YouTube](#youtube)
 
-
 ## Books
 
 - [Designing Data Intensive Applications by Martin Kleppmann](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
@@ -72,6 +71,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Algoexpert.io](https://www.algoexpert.io)
 - [Hired In Tech](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 - [System Design Tutorial](https://systemdesigntutorial.com/system-design/yelp)
+
 
 ## Interview Questions
 
