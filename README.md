@@ -13,7 +13,8 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 ## Books
 
 - [Designing Data Intensive Applications by Martin Kleppmann](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- [Desgining Distributed Systems by Brendan Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
+- [Designing Distributed Systems by Brendan Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
+- [System Design Interview](https://www.amazon.com/dp/B08CMF2CQF/)
 
 ## Blog Posts
 
