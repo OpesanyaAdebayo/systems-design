@@ -72,7 +72,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 - [Algoexpert.io](https://www.algoexpert.io)
 - [Hired In Tech](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 - [System Design Tutorial](https://systemdesigntutorial.com/system-design/yelp)
- 
+
 
 ## Interview Questions
 
@@ -84,8 +84,8 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 * [Differential Synchronization](https://neil.fraser.name/writing/sync/)
 
 **Design a random ID generation system**
-Reference: 
-* [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake) 
+Reference:
+* [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake)
 * [snowflake](https://github.com/twitter/snowflake/)
 
 **Design a key-value database**
@@ -94,13 +94,13 @@ Reference:
 
 **Design the Facebook news feed function**
 Reference:
-* [What are best practices for building something like a News Feed?](http://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed) 
-* [What are the scaling issues to keep in mind while developing a social network feed?](http://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed) 
+* [What are best practices for building something like a News Feed?](http://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed)
+* [What are the scaling issues to keep in mind while developing a social network feed?](http://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed)
 * [Activity Feeds Architecture](http://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture)
 
 **Design the Facebook timeline function**
-Reference: 
-* [Building Timeline](https://www.facebook.com/note.php?note_id=10150468255628920) 
+Reference:
+* [Building Timeline](https://www.facebook.com/note.php?note_id=10150468255628920)
 * [Facebook Timeline](http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html)
 
 **Design a function to return the top k requests during past time interval**
@@ -117,12 +117,12 @@ Reference:
 **Design a graph search function**
 
 * [Building out the infrastructure for Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920)
-* [Indexing and ranking in Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920) 
+* [Indexing and ranking in Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920)
 * [The natural language interface of Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-the-natural-language-interface-of-graph-search/10151432733048920) and [Erlang at Facebook](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)
 
 **Design a picture sharing system**
 
-* [Flickr Architecture](http://highscalability.com/flickr-architecture) 
+* [Flickr Architecture](http://highscalability.com/flickr-architecture)
 * [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html)
 
 **Design a search engine**
@@ -137,13 +137,13 @@ Reference:
 
 **Design a tinyurl system**
 
-* [System Design for Big Data-tinyurl](http://n00tc0d3r.blogspot.com/) 
+* [System Design for Big Data-tinyurl](http://n00tc0d3r.blogspot.com/)
 * [URL Shortener API](https://developers.google.com/url-shortener/?csw=1)
 
 **Design a garbage collection system**
 
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
- 
+
 **Design a scalable web crawling system**
 
 * [How can I build a web crawler from scratch?](https://www.quora.com/How-can-I-build-a-web-crawler-from-scratch)
@@ -157,7 +157,7 @@ Reference:
 
 * [Implementing Real-Time Trending Topics With a Distributed Rolling Count Algorithm in Storm](http://www.michael-noll.com/blog/2013/01/18/implementing-real-time-trending-topics-in-storm/)
 * [Early detection of Twitter trends explained](http://snikolov.wordpress.com/2012/11/14/early-detection-of-twitter-trends/)
- 
+
 **Design a cache system**
 
 * [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
@@ -167,6 +167,7 @@ Reference:
 ### Channels
 
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
 
 ### Videos
 
