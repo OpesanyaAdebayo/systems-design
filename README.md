@@ -69,7 +69,7 @@ All things System Design. Books, Blog Posts, Interview questions, e.t.c
 
 
 ## Courses And Tutorials
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 - [Algoexpert.io](https://www.algoexpert.io)
 - [Hired In Tech](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 - [System Design Tutorial](https://systemdesigntutorial.com/system-design/yelp)
